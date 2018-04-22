@@ -1,0 +1,11 @@
+{
+  "name": "wallaby-1625",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "coffeescript": "^2.2.4",
+    "mocha": "^5.1.1"
+  }
+}
